@@ -1,2 +1,2 @@
 # PAMSI
-PAMSI cos
+PAMSI
